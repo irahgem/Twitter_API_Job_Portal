@@ -19,12 +19,13 @@ Finally sign up for a Twitter Developer account, and create an app and store the
 
 1. Landing page
 
-<img alt="Landing" src="assets/1.jpg"> </img>
+![Landing](https://user-images.githubusercontent.com/72067722/209961304-47d0a4e1-51ad-4db7-b316-9265002c7d9b.jpg)
 
 2. Query with a job title
 
-<img alt="query-results" src="assets/2.jpg"> </img>
+![Query](https://user-images.githubusercontent.com/72067722/209961888-d8929a92-ef5b-4d3b-87c5-1a964c2e124c.jpg)
 
 3. Get top results matching the job title
 
-<img alt="all-results" src="assets/3.jpg"> </img>
+![all-results](https://user-images.githubusercontent.com/72067722/209963068-03742a9a-daa9-42fb-99c8-2ee22b4cea12.jpg)
+.
