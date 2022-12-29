@@ -19,12 +19,12 @@ Finally sign up for a Twitter Developer account, and create an app and store the
 
 1. Landing page
 
-<img alt="Landing" src="assets/1.png"> </img>
+<img alt="Landing" src="assets/1.jpg"> </img>
 
 2. Query with a job title
 
-<img alt="query-results" src="assets/2.png"> </img>
+<img alt="query-results" src="assets/2.jpg"> </img>
 
 3. Get top results matching the job title
 
-<img alt="all-results" src="assets/3.png"> </img>
+<img alt="all-results" src="assets/3.jpg"> </img>
